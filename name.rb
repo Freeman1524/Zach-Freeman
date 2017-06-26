@@ -1,7 +1,5 @@
-print "Please enter your first name:"
-my_firstname = gets
+def my_firstname
+	print "My first name is Zach."
+end
 
-print "Please enter your last name:"
-my_lastname = gets
-
-puts "Your first name is #{my_firstname} and your last name is #{my_lastname}."
+my_firstname
